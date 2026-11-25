@@ -1,0 +1,12 @@
+Location Tracker Version 1.0 - Developed by All Technology Update 🇵🇰
+Project: Noman Khan
+Present: Pakistan 🇵🇰
+
+Description:
+Location Tracker is a specialized accessibility plugin designed for Jieshuo (Commentary Screen Reader) users. Unlike basic location tools that only announce the city name, this extension retrieves real-time GPS and network coordinates along with detailed reverse-geocoded address components including house or building number, street name, neighborhood, city, district, province, postal code, and country.
+
+Key Features:
+- Complete swipe-friendly accessibility layout for effortless screen reader navigation.
+- Multi-language support allowing instant conversion of location details and summaries into dozens of global and regional languages.
+- One-tap copying for individual address lines or the complete address with a direct Google Maps link.
+- Real-time GPS accuracy indicator in meters.
